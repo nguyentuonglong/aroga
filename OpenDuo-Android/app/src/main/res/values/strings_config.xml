@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="private_app_id" translatable="false">c3f2286e232f45818a2e18151e9bbe37</string>
+
+
+    <string name="rtc_token" translatable="false">006c3f2286e232f45818a2e18151e9bbe37IADWpPepwlf9oQ4qvqOjviRdefHhf/EwAfCCNJLCRJAYdjdy2cw6UdIRIgAn55bSt1f8XgQAAQAAAAAAAgAAAAAAAwAAAAAABAAAAAAA</string>
+
+
+    <string name="rtm_token" translatable="false">006c3f2286e232f45818a2e18151e9bbe37IAC5ak1tMvASeIBXOisWH96fjUMU/Dvl6XGDGmMzFvM00TpR0hEAAAAAEACrMl0X+Vf8XgEA6AMAAAAA</string>
+</resources>
